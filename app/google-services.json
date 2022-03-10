@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663701655360",
+    "project_id": "skrolled-d907f",
+    "storage_bucket": "skrolled-d907f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663701655360:android:fb0a0cc15bf615548634a5",
+        "android_client_info": {
+          "package_name": "com.example.skrolled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663701655360-6fv0gt7k8eank21paullc4nm65kgirm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeC2c4JRZEAu1I_Em4T7A3V1fvM89N6aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663701655360-6fv0gt7k8eank21paullc4nm65kgirm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
